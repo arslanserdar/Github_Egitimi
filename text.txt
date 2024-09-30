@@ -7,3 +7,5 @@ Test branch line added 2
 Main branch line edit
 
 main branch revert test
+
+git conflict behaveour
